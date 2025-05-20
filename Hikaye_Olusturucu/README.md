@@ -1,4 +1,4 @@
-# Hikaye Oluşturucu ✍️
+# story creator ✍️
 
 Bu proje, kullanıcının verdiği girdilere göre eğlenceli ve rastgele bir hikaye oluşturan bir Python programıdır.
 
