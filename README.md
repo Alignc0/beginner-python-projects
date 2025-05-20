@@ -1,12 +1,16 @@
-# Python Öğrenme Projeleri 🐍
+# ATM Uygulaması 🏧
 
-Bu repo, Python öğrenme sürecimde yaptığım temel projeleri içermektedir. Her proje belirli bir konsepti pekiştirmek amacıyla geliştirilmiştir.
+Bu proje, Python dilinde yazılmış basit bir ATM simülasyonudur.
 
-Projeler arasında:
-- Oyunlar (Taş Kağıt Makas, Sayı Tahmini, Milyoner)
-- Basit hesap makineleri
-- Caesar şifreleme
-- Kelime frekans analizi
-- Basit bir spam tespit makinesi
+## Özellikler
+- Giriş kontrolü (kullanıcı adı + şifre)
+- Bakiye sorgulama
+- Para yatırma
+- Para çekme
+- Çıkış işlemi
+- 3 yanlış giriş sonrası hesap kilitlenir
 
-Tüm projeler ayrı klasörlerde açıklamalı şekilde yer almaktadır.
+## Kullanım
+Program çalıştırıldığında kullanıcıdan giriş bilgileri istenir. Başarılı giriş sonrası işlem menüsü açılır.
+
+> Bu proje, Python öğrenme sürecimde `if`, `while`, `input`, `fonksiyon` gibi temel yapıları pekiştirmek için geliştirilmiştir.
